@@ -1,10 +1,5 @@
 Geospatial predictive modeling with a focus on minerals exploration.
 
-# Geospatial Predictive Modeling
+[Compiling Data for Mineral Prospectivity Models](articles/Compiling Data for Mineral Prospectivity Models.md)
 
-Modeling with a focus on minerals exploration.
-
-[Pucks](pucks/README.md)
-
-## Using
 
