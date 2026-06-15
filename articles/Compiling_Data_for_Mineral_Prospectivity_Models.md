@@ -36,8 +36,7 @@
 * Consistent geologic map appropriate for the scale of the study area 
 * Prefer lithology over formational names
 * Include rheology and reactivity attributes if known
-* Build topology (https://en.wikipedia.org/wiki/Geospatial_topology)
-  * If contact relationships are important
+* Build [Topology](https://en.wikipedia.org/wiki/Geospatial_topology) if contact relationships are important
 * Classify structures according to type, importance
 * Include alteration layer(s) if known
 
