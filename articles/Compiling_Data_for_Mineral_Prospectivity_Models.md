@@ -21,8 +21,8 @@
   * Shapefiles for vector data
   * GeoTiffs for raster data / grids
 * GDAL is a good source for supported formats
-  * Vector https://gdal.org/en/stable/drivers/raster/
-  * Raster https://gdal.org/en/stable/drivers/vector/index.html
+  * [Vector](https://gdal.org/en/stable/drivers/vector/index.html)
+  * [Raster](https://gdal.org/en/stable/drivers/vector/index.html)
 * Prefer formats that promote consistency (i.e. databases) over spreadsheets
 * Include "raw" data with derivative products
   8 For example a grid gravity readings in addition to a colored image with RGB values
