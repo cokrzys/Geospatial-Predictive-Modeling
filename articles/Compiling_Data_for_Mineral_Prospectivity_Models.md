@@ -20,7 +20,7 @@
 * Use widely adopted "standard" formats whenever possible
   * Shapefiles for vector data
   * GeoTiffs for raster data / grids
-* GDAL is a good source for supported formats
+* GDAL is a good source for standard formats
   * [Vector](https://gdal.org/en/stable/drivers/vector/index.html)
   * [Raster](https://gdal.org/en/stable/drivers/raster/index.html)
 * Prefer formats that promote consistency (i.e. databases) over spreadsheets
