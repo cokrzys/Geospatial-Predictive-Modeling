@@ -1,5 +1,5 @@
 # Compiling Data for Mineral Prospectivity Modeling
-[Open the Most Recent Version on GitHub](https://github.com/cokrzys/Geospatial-Predictive-Modeling/blob/main/articles/Compiling_Data_for_Mineral_Prospectivity_Models.md)
+[Open the Most Recent Version of this Document](https://github.com/cokrzys/Geospatial-Predictive-Modeling/blob/main/articles/Compiling_Data_for_Mineral_Prospectivity_Models.md)
 
 ## Study Area
 * Natural boundaries (i.e. geologic domains) over arbitrary boundaries
