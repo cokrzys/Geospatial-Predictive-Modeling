@@ -40,7 +40,7 @@ co_geology_500k_ln_32613.shp
    * pt = points
    * ln = lines
    * pl = polygons
-   * rs = raster (typically redundant via the extension and can be left off)
+   * rs = raster (often redundant via the extension and can be left off)
 2. Projection
    * EPSG codes are a solid standard and a concise descriptor for the coordinate system
 3. Scale
