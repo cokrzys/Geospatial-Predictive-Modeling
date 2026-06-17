@@ -15,7 +15,7 @@
 * Guidelines over rigid consistency
 
 ## A Filename Convention
-1. prefix = project or study area abbreviation
+1. prefix = short project name or abbreviation
 2. body = longer free form descriptive data name
 3. suffix(es) = one or more "standard" suffix(es) that help classify or distinguish similar files from each other
 4. extension = data format
