@@ -30,8 +30,8 @@ world_mrds_pt_3857.shp
 # Colorado geology 1:500K, polygons, WGS 84 / UTM zone 13N (EPSG 32613), shapefile
 co_geology_500k_pl_32613.shp
 
-# Colorado geology 1:500K, lines, WGS 84 / UTM zone 13N (EPSG 32613), shapefile
-co_geology_500k_ln_32613.shp
+# Colorado geology 1:500K, raster, WGS 84 / UTM zone 13N (EPSG 32613), GeoTIFF
+co_geology_500k_rs_32613.tiff
 ```
 
 ### Potentially Useful Suffixes
@@ -43,9 +43,6 @@ co_geology_500k_ln_32613.shp
 2. Projection
    * EPSG codes are a solid standard and a concise descriptor for the coordinate system
 3. Scale
-
-```bash
-# raster examples
-```
+   
 ## Directories
 
