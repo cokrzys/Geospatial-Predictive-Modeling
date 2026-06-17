@@ -21,7 +21,7 @@
 4. extension = data format
 
 ```bash
-# a comment
+# MRDS data for the world, points, lat-long WGS84 (EPSG 4326)
 world_mrds_pt_4326.shp
 ```
 ## Directories
