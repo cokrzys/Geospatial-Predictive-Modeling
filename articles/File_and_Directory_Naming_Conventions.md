@@ -9,7 +9,7 @@
 * Descriptive names over codes
   * If you have to lookup or think too much about a code it's not useful
 * Prioritize filenames over directory names
-  * Filenames are "stickier" than directories
+  * Filenames are "stickier" than directories especially when moving data around
 * Avoid renaming source data just for convention
 * Filenames should stand alone
 * Guidelines over rigid consistency
