@@ -23,6 +23,12 @@
 ```bash
 # MRDS data for the world, points, lat-long WGS84 (EPSG 4326)
 world_mrds_pt_4326.shp
+
+# MRDS data for the world, points, web mercator projection
+world_mrds_pt_3857.shp
+
+# Colorado geology 1:500K, polygons, WGS 84 / UTM zone 13N (EPSG 32613)
+co_geology_500k_pl_32613.shp
 ```
 ## Directories
 
