@@ -12,7 +12,8 @@
   * Filenames are "stickier" than directories
 * Avoid renaming source data just for convention
 * Filenames should stand alone
-* Guidelines over rigid consistency
+* Avoid redundant information
+* Treat rules as Guidelines over rigid consistency
 
 ## A Filename Convention
 1. prefix = short project name or abbreviation
