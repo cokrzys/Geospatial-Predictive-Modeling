@@ -3,7 +3,7 @@
 
 ## General
 * Underscores over spaces
-  * Spaces are less legible and often cumbersome on the command line
+  * Spaces are often cumbersome on the command line
 * lowercase over Mixed or camelCase
   * Case is more applicable in documents, less in data files
 * Descriptive names over codes
