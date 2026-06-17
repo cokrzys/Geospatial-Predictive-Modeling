@@ -5,13 +5,13 @@
 * Descriptive names over codes
   * If you have to lookup or think too much about a code it's not useful
 * Underscores over spaces
-  * Spaces are often cumbersome on the command line
+  * Spaces are cumbersome on the command line
 * lowercase over Mixed or camelCase
   * Case is more applicable for documents, less in data files
 * Prioritize filenames over directory names
   * Filenames are "stickier" than directories
-* Avoid renaming source data just for convention
-* Filenames should stand on their own
+  * Filenames should stand on their own
+* Avoid renaming source data
 * Treat rules as Guidelines over rigid consistency
 
 ## A Filename Convention
