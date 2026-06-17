@@ -12,7 +12,6 @@
   * Filenames are "stickier" than directories
 * Avoid renaming source data just for convention
 * Filenames should stand alone
-* Avoid redundant information
 * Treat rules as Guidelines over rigid consistency
 
 ## A Filename Convention
