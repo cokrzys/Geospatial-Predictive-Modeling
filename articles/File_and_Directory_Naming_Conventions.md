@@ -18,10 +18,11 @@
 1. prefix = project or study area abbreviation
 2. body = longer free form descriptive data name
 3. suffix(es) = one or more "standard" suffix(es) that help classify or distinguish similar files from each other
+4. extension = data format
 
 ```bash
 # a comment
-prefix_a_longer_description_suffix(es).dat
+world_mrds_pt_4326.shp
 ```
 ## Directories
 
