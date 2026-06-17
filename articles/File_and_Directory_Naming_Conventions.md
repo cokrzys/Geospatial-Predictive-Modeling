@@ -9,8 +9,7 @@
 * lowercase over Mixed or camelCase
   * Case is more applicable for documents, less in data files
 * Prioritize filenames over directory names
-  * Filenames are "stickier" than directories
-  * Filenames should stand on their own
+  * Filenames are "stickier" than directories and should stand on their own
 * Avoid renaming source data
 * Treat rules as Guidelines over rigid consistency
 
@@ -48,4 +47,6 @@ model1.png
 3. Scale
    
 ## Directories
+* More organization and/or project specific
+* Mixed case names are more acceptable
 
