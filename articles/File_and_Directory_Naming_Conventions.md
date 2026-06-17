@@ -9,9 +9,14 @@
 * Descriptive names over codes
   * If you have to lookup or think too much about a code it's not useful
 * Prioritize filenames over directory names
-  * Filenames are "stickier" than directories especially when moving data around
+  * Filenames are "stickier" than directories
 * Avoid renaming source data just for convention
 * Filenames should stand alone
 * Guidelines over rigid consistency
 
-## One Convention
+## A Filename Convention
+
+preifx_a_longer_description_suffix(es).dat
+
+## Directories
+
