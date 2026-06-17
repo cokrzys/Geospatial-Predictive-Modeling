@@ -2,16 +2,16 @@
 [Open the Most Recent Version on GitHub](https://github.com/cokrzys/Geospatial-Predictive-Modeling/blob/main/articles/File_and_Directory_Naming_Conventions.md)
 
 ## General
+* Descriptive names over codes
+  * If you have to lookup or think too much about a code it's not useful
 * Underscores over spaces
   * Spaces are often cumbersome on the command line
 * lowercase over Mixed or camelCase
-  * Case is more applicable in documents, less in data files
-* Descriptive names over codes
-  * If you have to lookup or think too much about a code it's not useful
+  * Case is more applicable for documents, less in data files
 * Prioritize filenames over directory names
   * Filenames are "stickier" than directories
 * Avoid renaming source data just for convention
-* Filenames should stand alone
+* Filenames should stand on their own
 * Treat rules as Guidelines over rigid consistency
 
 ## A Filename Convention
@@ -32,6 +32,9 @@ co_geology_500k_pl_32613.shp
 
 # Colorado geology 1:500K, raster, WGS 84 / UTM zone 13N (EPSG 32613), GeoTIFF
 co_geology_500k_rs_32613.tiff
+
+# not a great name
+model1.png
 ```
 
 ### Potentially Useful Suffixes
