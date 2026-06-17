@@ -21,13 +21,13 @@
 4. extension = data format
 
 ```bash
-# MRDS data for the world, points, lat-long WGS84 (EPSG 4326)
+# MRDS data for the world, points, lat-long WGS84 (EPSG 4326), shapefile
 world_mrds_pt_4326.shp
 
-# MRDS data for the world, points, web mercator projection
+# MRDS data for the world, points, web mercator projection, shapefile
 world_mrds_pt_3857.shp
 
-# Colorado geology 1:500K, polygons, WGS 84 / UTM zone 13N (EPSG 32613)
+# Colorado geology 1:500K, polygons, WGS 84 / UTM zone 13N (EPSG 32613), shapefile
 co_geology_500k_pl_32613.shp
 ```
 ## Directories
