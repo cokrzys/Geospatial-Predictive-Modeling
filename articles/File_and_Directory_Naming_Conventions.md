@@ -5,7 +5,7 @@
 * Underscores over spaces
   * Spaces are less legible and often cumbersome on the command line
 * lowercase over Mixed or camelCase
-  * Case is generally more applicable in documents, less in data files
+  * Case is more applicable in documents, less in data files
 * Descriptive names over codes
   * If you have to lookup or think too much about a code it's not useful
 * Prioritize filenames over directory names
