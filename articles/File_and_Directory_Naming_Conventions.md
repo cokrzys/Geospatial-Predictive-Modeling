@@ -15,8 +15,13 @@
 * Guidelines over rigid consistency
 
 ## A Filename Convention
+1. prefix = project or study area abbreviation
+2. body = longer free form descriptive data name
+3. suffix(es) = one or more "standard" suffix(es) that help classify or distinguish similar files from each other
 
-preifx_a_longer_description_suffix(es).dat
-
+```bash
+# a comment
+prefix_a_longer_description_suffix(es).dat
+```
 ## Directories
 
