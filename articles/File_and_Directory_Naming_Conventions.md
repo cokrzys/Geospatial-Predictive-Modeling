@@ -7,7 +7,7 @@
 * Underscores over spaces
   * Spaces are cumbersome on the command line
 * lowercase over Mixed or camelCase
-  * Case is more applicable for documents, less in data files
+  * Case is more applicable for documents than data files
 * Prioritize filenames over directory names
   * Filenames are "stickier" than directories and should stand on their own
 * Avoid renaming source data
