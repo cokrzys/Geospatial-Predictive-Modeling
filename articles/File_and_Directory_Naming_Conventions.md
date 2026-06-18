@@ -16,7 +16,7 @@
 ## A Filename Convention
 1. prefix = short project name or abbreviation
 2. body = longer free form descriptive data name, the most important part
-3. suffix(es) = one or more "standard" suffix(es) that help classify or distinguish similar files from each other
+3. suffix(es) = one or more "standard" suffixes that help differentiate similar files
 4. extension = data format
 
 ```bash
