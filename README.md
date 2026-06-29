@@ -4,4 +4,6 @@ Geospatial predictive modeling with a focus on minerals exploration.
 
 [File and Directory Naming Conventions](articles/File_and_Directory_Naming_Conventions.md)
 
+[Data and References](articles/Data_and_References.md)
+
 
